@@ -13,6 +13,7 @@
 ## Unit testing
 - [Test Driven Development (Martin Fowler)](https://martinfowler.com/bliki/TestDrivenDevelopment.html#:~:text=Test%2DDriven%20Development%20(TDD),functionality%20you%20want%20to%20add.)
 - [Canon TDD (Kent Beck)](https://tidyfirst.substack.com/p/canon-tdd)
+- [Test Driven Development: By Example](https://www.amazon.de/-/en/Test-Driven-Development-Example-Signature/dp/0321146530)
 
 ## Search
 - [What AI Engineers Should Know about Search(Doug Turnbull)](https://softwaredoug.com/blog/2024/06/25/what-ai-engineers-need-to-know-search)

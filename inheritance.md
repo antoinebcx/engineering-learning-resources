@@ -41,7 +41,7 @@ numeric_analyzer = NumericAnalyzer(numeric_data)
 print(numeric_analyzer.analyze())
 ```
 
-Typescript:
+TypeScript:
 ```ts
 class DataAnalyzer<T> {
     protected data: T[];

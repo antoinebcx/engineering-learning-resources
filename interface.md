@@ -62,7 +62,7 @@ process_data(csv_processor)
 process_data(json_processor)
 ```
 
-Typescript:
+TypeScript:
 ```ts
 interface DataProcessor {
     readData(): Promise<Record<string, any>[]>;
